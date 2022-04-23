@@ -1,0 +1,27 @@
+.div {
+    color: red;
+    padding-left: 37%;
+    font-family:"Oswald";
+}
+
+.div2 {
+    padding-left: 43%;
+}
+
+.div3{
+    color: chocolate;
+    font-family:"Oswald";
+    padding-left: 43%;
+}
+
+.div4 {
+    color: chocolate;
+    font-family:"Oswald";
+    padding-left: 39%;
+}
+
+.div5 {
+    color: tomato;
+    font-family: "Oswald";
+    padding-inline: 500px;
+}
